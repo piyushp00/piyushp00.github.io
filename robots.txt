@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://piyushp00.github.io/sitemap.xml
+Host: https://piyushp00.github.io
