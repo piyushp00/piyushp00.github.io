@@ -142,12 +142,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/piyushp00.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/piyushp00.github.io/app-a78f74292ee1b92d54ca.js`))) {
+  if (!resources || !(await caches.match(`app-a78f74292ee1b92d54ca.js`))) {
     return await fetch(event.request)
   }
 
