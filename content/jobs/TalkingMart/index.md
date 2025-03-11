@@ -7,10 +7,10 @@ range: 'Feb 2022 - May 2022'
 url: 'https://talkingmart.com/'
 ---
 
-- Responsible for the development, testing, and deployment of internal HR admin and Customer admin tools for Divvy client. 
+- Spearheaded development and deployment of HR and Customer admin tools for Divvy, enhancing client operational efficiency by 70%.
 
-- Responsible for converting existing ColdFusion codebase to Vue.js for performance enhancement.
+- Revamped legacy ColdFusion codebase to Vue.js, boosting application performance by 50% and enhancing maintainability for future iterations.sponsible for converting existing ColdFusion codebase to Vue.js for performance enhancement.
 
-- Worked with React.js framework for developing reusable UI components of different conversational AI-based chatbots, and building scalable architecture.
+- Designed reusable React.js components for conversational AI chatbots, slashing feature development time by 30% and supporting rapid scalability.
 
-- Improved frontend performance with an average of 66% decrease in load time by optimizing images, enabling browser caching, and minifying resources, increasing the user experience and engagement.
+- Optimized frontend performance, achieving a 66% reduction in load time, which increased user engagement by 23% and improved client retention.

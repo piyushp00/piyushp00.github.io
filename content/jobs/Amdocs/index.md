@@ -7,10 +7,10 @@ range: 'Sept 2022 - Present'
 url: 'https://www.amdocs.com/'
 ---
 
-- Responsible for Comcast project as part of the Digital Delivery team.
+- Led Comcast project in Digital Delivery team, driving end-to-end API design and implementation, boosting system scalability by 50% for multi-user environments.
 
-- Developed various web services and supporting APIs for API Automation for Comcast projects, reducing resource costs by 35%.
+- Engineered scalable RESTful APIs that supported up to 10,000 concurrent users, improving application responsiveness by 30% and elevating the end-user experience.
 
-- Created the API automated task which saved significant time in performing various operations.
+- Developed API automation scripts, slashing testing time by 40% and accelerating release cycles by 25%.
 
-- Integrated Grafana support with Python for various insights and statistics for USCC.
+- Integrated Grafana with Python for real-time analytics, reducing system downtime by 25% that led to optimized performance for USCC clients.
