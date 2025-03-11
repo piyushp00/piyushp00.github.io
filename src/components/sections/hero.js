@@ -63,7 +63,7 @@ const Hero = () => {
       </p>
 
       <p>
-        Currently, I am pursuing B.Tech in Computer Science Engineering at{' '}
+        Currently, I hold a B.Tech in Computer Science Engineering from{' '}
         <a href="https://bvucoepune.edu.in/" target="_blank" rel="noreferrer">
           Bharati Vidyapeeth College of Engineering, Pune
         </a>
